@@ -1,4 +1,4 @@
-#KASHISH TILWANI
+# KASHISH TILWANI
 
 ## 💫 About Me:
 Detail-oriented B. Tech (Artificial Intelligence) student at Delhi Skill and<br>Entrepreneurship University (2024–2028) with a strong foundation in machine<br>learning, data analysis, and visualization. Proficient in Python, Pandas, NumPy, and Power BI, with hands-on experience<br>building AI and web applications. Passionate about applying data-driven insights, predictive modeling, and<br>automation to solve real-world problems
