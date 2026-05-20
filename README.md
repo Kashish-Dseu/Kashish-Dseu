@@ -17,7 +17,7 @@ Detail-oriented B. Tech (Artificial Intelligence) student at Delhi Skill and<br>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kashish-Dseu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📊 LeetCode Stats:
-![](https://leetcard.jacoblin.cool/lapor?ext=heatmap)---
+![](https://leetcard.jacoblin.cool/kashish_tilwani07?ext=heatmap)---
 [![](https://komarev.com/ghpvc/?username=Kashish-Dseu&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
