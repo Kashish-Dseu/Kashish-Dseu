@@ -5,7 +5,8 @@ Detail-oriented B. Tech (Artificial Intelligence) student at Delhi Skill and<br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https:/www.linkedin.com/in/kashish-tilwani-40a5672a8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kashishtilwani07@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https:/www.linkedin.com/in/kashish-tilwani-40a5672a8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kashishtilwani07@gmail.com) [![LeetCode](https://shields.io)](https://leetcode.com/u/kashish_tilwani07/)
+
 <a href="https://leetcode.com/u/kashish_tilwani07/" target="_blank"><img src="https://shields.io" alt="leetcode"></a>
 
 
