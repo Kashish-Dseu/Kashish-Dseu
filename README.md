@@ -19,6 +19,5 @@ Detail-oriented B. Tech (Artificial Intelligence) student at Delhi Skill and<br>
 # 📊 LeetCode Stats:
 ![](https://leetcard.jacoblin.cool/kashish_tilwani07?ext=heatmap)---
 [![](https://komarev.com/ghpvc/?username=Kashish-Dseu&icon=0&color=0)](https://visitcount.itsvg.in)
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={kashish_tilwani07}&animated=true" alt="LeetCode Badges" />
-
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={kashish_tilwani07}&theme={github-dark}" alt="LeetCode Badges" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
