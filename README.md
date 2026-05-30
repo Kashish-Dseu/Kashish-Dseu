@@ -1,35 +1,38 @@
-# KASHISH TILWANI
-
-## 💫 About Me:
-Detail-oriented B. Tech (Artificial Intelligence) student at Delhi Skill and<br>Entrepreneurship University (2024–2028) with a strong foundation in machine<br>learning, data analysis, and visualization. Proficient in Python, Pandas, NumPy, and Power BI, with hands-on experience<br>building AI and web applications. Passionate about applying data-driven insights, predictive modeling, and<br>automation to solve real-world problems
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https:/www.linkedin.com/in/kashish-tilwani-40a5672a8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kashishtilwani07@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=)](https://leetcode.com/u/kashish_tilwani07/)
+![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Kashish%20Tilwani&text2=AI%20&%20Machine%20Learning%20Enthusiast%20|%20BTech%20AI%20@%20DSEU%20|%20NLP%20·%20Generative%20AI%20·%20Python&width=900&height=400)
 
 
-## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<img height="auto" src="https://komarev.com/ghpvc/?username=Kashish-Dseu&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
 
-## 🏆 Hackathons
 
-| 🏅 Hackathon | 💡 Project | Domain |
-|---|---|---|
-| **Smart Krishi Hackathon** | Dhara Drishti — Smart irrigation with renewable energy | AgriTech |
-| **Industrial Ideathon** | Low-cost IoT + AI/ML factory digitization platform | Industry 4.0 |
-| **Gen AI Exchange** | Saathi AI — Anonymous mental wellness for India's youth | HealthTech |
-| **Smart India Hackathon** | Drone-based autonomous supply delivery (8kg payload) | Aerospace + AI |
 
----
+<p align="left"> <img width="900" height="110" src="https://readme-jokes.vercel.app/api" alt ="tr"/> </p>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Kashish-Dseu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Kashish-Dseu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kashish-Dseu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📊 LeetCode Stats:
-![](https://leetcard.jacoblin.cool/kashish_tilwani07?ext=heatmap)---
-[![](https://komarev.com/ghpvc/?username=Kashish-Dseu&icon=0&color=0)](https://visitcount.itsvg.in)
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=kashish_tilwani07&animated=true&limit=12)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=Kashish-Dseu&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
+
+- 💪🏼 Working on [TruScan](https://github.com/Kashish-Dseu/TruScan.git)
+
+- 🌱 I’m currently learning **Deep Leaning & NLP**
+
+- 😂 Func Fact **Bats are the only mammal that can actually fly.**
+
+- 📫 How to reach me **kashishtilwani07@gmail.com**
+
+<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://github.com/Kashish-Dseu" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://linkedin.com/in/Kashish Tilwani" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://www.leetcode.com/kashish_tilwani07" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://discord.gg/kashish_0705" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg alt="profile-radme-generator" height="30" width="40" /></a> </p>
+
+<h3 align="left">Languages and Tools:</h3> <p align="left"> <a href=https://www.arduino.cc/ target="_blank" rel="noreferrer"> <img src=https://cdn.worldvectorlogo.com/logos/arduino-1.svg alt="android" width="40" height="40"/> </a> <a href=https://www.w3schools.com/cpp/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.w3schools.com/css/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://www.w3.org/html/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://www.mysql.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://www.oracle.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg alt="android" width="40" height="40"/> </a> <a href=https://pandas.pydata.org/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.python.org target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt="android" width="40" height="40"/> </a> <a href=https://scikit-learn.org/ target="_blank" rel="noreferrer"> <img src=https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg alt="android" width="40" height="40"/> </a> <a href=https://seaborn.pydata.org/ target="_blank" rel="noreferrer"> <img src=https://seaborn.pydata.org/_images/logo-mark-lightbg.svg alt="android" width="40" height="40"/> </a> </p>
+
+
+
+<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=Kashish-Dseu&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
+
+
+
+<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=Kashish-Dseu&theme=dark&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
+
+
+
+<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashish-Dseu&theme=dark&hide_border=false" alt="profile-radme-generator" />
