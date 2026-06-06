@@ -2,9 +2,8 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=20&center=true&vCenter=true&width=450&lines=KASHISH+TILWANI;She/her;ARTIFICIAL+INTELLIGENCE+STUDENT;LEARNING+DATA+ANALYSIS;PASSIONATE+ABOUT+SOVING+REAL+WORLD+PROBLEM;function+findQuestion(42)" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=20&center=true&vCenter=true&width=450&lines=KASHISH+TILWANI;AI+STUDENT;LEARNING+DATA+ANALYSIS;PASSIONATE+ABOUT;SOVING+REAL-WORLD+PROBLEM;></a>
 </div>
-# KASHISH TILWANI
 
 ## 💫 About Me:
 Detail-oriented B. Tech (Artificial Intelligence) student at Delhi Skill and<br>Entrepreneurship University (2024–2028) with a strong foundation in machine<br>learning, data analysis, and visualization. Proficient in Python, Pandas, NumPy, and Power BI, with hands-on experience<br>building AI and web applications. Passionate about applying data-driven insights, predictive modeling, and<br>automation to solve real-world problems
